@@ -14,7 +14,7 @@ The spreadsheet comes from the following sources:
 
 The spreadsheet contains, among others, the following columns relevant to the analysis: 
 
-- `studio_1br	` — the number of studio and one bedroom affordable housing units the city has begun work on since 1/1/2020
+- `studio_1br` — the number of studio and one bedroom affordable housing units the city has begun work on since 1/1/2020
 - `multi_bedroom` — the number of affordable housing units with more than one bedroom that the city has begun work on since 1/1/2020
 - `total built units` — the total number of affordable housing units that the city has begun work on since 1/1/2020
 
